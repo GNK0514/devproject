@@ -1,4 +1,15 @@
-this is naveen
+hello
+
+This is naveenkrishna 
+ And new to devops 
+ and devops tools
+  git
+  github
+  jenkins
+  docker
+  kubernates
+  version control
+  
 
 
 
