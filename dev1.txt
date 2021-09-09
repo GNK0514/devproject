@@ -1,15 +1,12 @@
-hello
 
-This is naveenkrishna 
- And new to devops 
- and devops tools
-  git
-  github
-  jenkins
-  docker
-  kubernates
-  version control
-  
+hello my self naveenkrishna
+
+This is new to Devops 
+And will help to everyone 
+
+Good to know about your guys 
+And may is helpful to us.
+And grant to give project permissions
 
 
 
