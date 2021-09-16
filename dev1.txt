@@ -1,18 +1,14 @@
 
-devops application 
- running successfully
-  running different tools
-  ci/cd pipeline
-  intigrate with jenkins
-  code use for the git/github
-  docker and it was imge 
-  creating the vms with different os
-  version control for the code using 
-  project runs with different enivironement
-  dev
-  test
-  production
-  uat
+hello devops
+ 
+
+this application running devops project
+ and the tools are
+  git
+  github
+  jenkins
+  maven
+ kubernates
 
 
 
